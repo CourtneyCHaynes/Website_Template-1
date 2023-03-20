@@ -100,7 +100,7 @@ button:hover{
 }
 @media screen and (max-width: 360px) {
   .banner {
-  margin: 10px 0 10px 0;
+ 
   }
   .navbar ul li {
     display: inline-block;
@@ -114,12 +114,31 @@ button:hover{
 }
 
 } 
-@media screen and (max-height: 800px) {
+/*vertical*/
+@media screen and (max-width: 800px) {
+  .banner {
+    margin: 20px 0 20px 0
+  }
+  .navbar ul li {
+    display: inline-block;
+    position: relative;
+    justify-content: space-between;
+  }
+  .content h1{
+    font-size: 25px;
+    margin-top: auto; 
+  
+
+}
+
+} 
+/*horizontal*/
+@media screen and (max-height: 360px) {
 
     .content h1{
         font-size: 30px;
         margin-top: auto;
-        padding-top: 80px;
+        padding-top: 180px;
        
 }
 
