@@ -117,7 +117,7 @@ button:hover{
 /*vertical*/
 @media screen and (max-width: 800px) {
   .banner {
-    margin: 20px 0 20px 0
+    
   }
   .navbar ul li {
     display: inline-block;
@@ -136,9 +136,9 @@ button:hover{
 @media screen and (max-height: 360px) {
 
     .content h1{
-        font-size: 30px;
+        font-size: 25px;
         margin-top: auto;
-        padding-top: 180px;
+        padding-top: 150px;
        
 }
 
