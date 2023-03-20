@@ -119,7 +119,7 @@ button:hover{
 @media screen and (max-height: 500px) {
 
     .content h1{
-        font-size: 5px;
+        font-size: 25px;
         margin-top: auto;
         padding-top: 150px;
        
