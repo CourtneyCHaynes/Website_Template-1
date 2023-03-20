@@ -99,8 +99,8 @@ button:hover{
     border: none;
 }
 @media screen and (max-width: 360px) {
-  .content {
-  
+  .body {
+  margin: 5px 0 5px 0;
   }
   .navbar ul li {
     display: inline-block;
@@ -119,5 +119,9 @@ button:hover{
         font-size: 30px;
         margin-top: auto;
         padding-top: 80px;
+       
+}
+.banner{
+    margin: 5px 0 5px 0;
 }
 }
