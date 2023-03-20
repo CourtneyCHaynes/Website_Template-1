@@ -98,27 +98,10 @@ button:hover span{
 button:hover{
     border: none;
 }
-@media screen and (max-width: 360px) {
-  .banner {
- 
-  }
-  .navbar ul li {
-    display: inline-block;
-    position: relative;
-    justify-content: space-between;
-  }
-  .content h1{
-    font-size: 25px;
-    margin-top: auto; 
-    padding-top: 50px  
-}
 
-} 
 /*vertical*/
 @media screen and (max-width: 800px) {
-  .banner {
-    
-  }
+  
   .navbar ul li {
     display: inline-block;
     position: relative;
@@ -126,17 +109,17 @@ button:hover{
   }
   .content h1{
     font-size: 25px;
-    margin-top: auto; 
+   
   
 
 }
 
 } 
 /*horizontal*/
-@media screen and (max-height: 360px) {
+@media screen and (max-height: 500px) {
 
     .content h1{
-        font-size: 25px;
+        font-size: 5px;
         margin-top: auto;
         padding-top: 150px;
        
