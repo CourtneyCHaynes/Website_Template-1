@@ -116,7 +116,7 @@ button:hover{
 
 } 
 /*horizontal*/
-@media screen and (max-height: 500px) {
+@media screen and (max-height: 800px) {
 
     .content h1{
         font-size: 25px;
